@@ -1,4 +1,4 @@
-const MAKEUP_API_URL="http://makeup-api.herokuapp.com/api/v1/products.json";
+const MAKEUP_API_URL="https://makeup-api.herokuapp.com/api/v1/products.json";
 const ITEMS_PER_PAGE = 5;
 var TOTAL_PAGES = 0;
 var MOCK_DATA_LENGTH = 0;
