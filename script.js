@@ -55,7 +55,7 @@ function resolvePrice(item){
 
 function initialization() {
 
-    console.log(" Makeup API is in progress..");
+    console.log(" Makeup API call is in progress.. please wait ..");
 
     let h1Element = newElement("h1");
     h1Element.innerText = "Beautiful Makeup API";
